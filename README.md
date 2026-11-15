@@ -57,10 +57,10 @@
 
 | Project | Highlights | Stack |
 | --- | --- | --- |
-| ⛓️ **[ReliefChain](https://github.com/Ansita20/ReliefChain)** · [**Live ↗**](https://reliefchain-nu.vercel.app) | Privacy-preserving disaster-relief registry that stops duplicate aid across agencies without exposing personal data (one-way nullifier hashes, role-based access). Deployed on Sepolia; 63 tests, 100% coverage; batching cuts gas by 51–58% | Solidity · Hardhat · React · TypeScript · ethers.js |
-| 🗂️ **[Job Scheduler](https://github.com/kavya-tantuvay/job-scheduler)** | Collaborative task-management REST API with JWT auth, role-based access, fully containerized and tested | Java · Spring Boot · Docker |
 | 🔍 **[TrackBack](https://github.com/kavya-tantuvay/Track_Back)** | AI lost & found platform that matches items using CLIP image + text embeddings and pgvector cosine similarity | TypeScript · Node · PostgreSQL · pgvector |
 | 🛣️ **[Adaptive Lane Segmentation](https://github.com/kavya-tantuvay/adaptive-lane-segmentation-research)** | Comparative study of segmentation architectures, extended with deformable convolution and probabilistic attention (IoU 0.65 → 0.76) | TensorFlow · OpenCV |
+| 🗂️ **[Job Scheduler](https://github.com/kavya-tantuvay/job-scheduler)** | Collaborative task-management REST API with JWT auth, role-based access, fully containerized and tested | Java · Spring Boot · Docker |
+| ⛓️ **[ReliefChain](https://github.com/Ansita20/ReliefChain)** · [**Live ↗**](https://reliefchain-nu.vercel.app) | Privacy-preserving disaster-relief registry that stops duplicate aid across agencies without exposing personal data (one-way nullifier hashes, role-based access). Deployed on Sepolia; 63 tests, 100% coverage; batching cuts gas by 51–58% | Solidity · Hardhat · React · TypeScript · ethers.js |
 | 💰 **[Financial Maze 3D](https://github.com/kavya-tantuvay/Financial_Maze)** | Browser-based 3D game where financial choices shape your path | React Three Fiber |
 
 ---
