@@ -1,38 +1,84 @@
-# Hi, I'm Kavya 👋
+<div align="center">
 
-B.Tech CSE student at **ABV-IIITM Gwalior** (graduating 2027). I work across **machine learning / computer vision** and **full-stack development**, and I'm getting into open source with the goal of contributing through **Google Summer of Code 2027**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kavya+%F0%9F%91%8B;ML+%2F+Computer+Vision+Enthusiast;Full-Stack+Developer;Competitive+Programmer+%7C+LeetCode+Knight" alt="Typing intro" />
 
-## 🔭 What I work on
+**B.Tech CSE @ ABV-IIITM Gwalior** · Building at the intersection of **AI** and **software engineering**
 
-- **Computer vision research**: semantic segmentation for lane detection on TuSimple, CULane, KITTI and BDD100K, improving IoU from 0.65 to 0.76 with deformable convolutions and probabilistic attention
-- **AI-powered apps**: CLIP embeddings + pgvector similarity search for real-world matching problems
-- **Full-stack systems**: TypeScript / Node.js backends with PostgreSQL, Prisma and JWT auth
-- **Open source**: looking to contribute to scientific Python and ML ecosystems (NumFOCUS, PSF, INCF)
+</div>
 
-## 🛠️ Tech stack
+---
 
-- **Languages:** Python · C/C++ · JavaScript · TypeScript
-- **ML / CV:** TensorFlow / Keras · scikit-learn · OpenCV · CNNs · semantic segmentation
-- **Backend & data:** Node.js · Express · PostgreSQL · Prisma · pgvector · MongoDB
-- **Frontend:** React · React Three Fiber
+### 🌱 About me
 
-## 📌 Featured projects
+- 🧠 I love turning ideas into working systems, from training vision models to shipping full-stack apps
+- 🔬 Research in **semantic segmentation for lane detection** (TuSimple, CULane, KITTI, BDD100K), pushing IoU from **0.65 → 0.76**
+- ⚡ Solved **800+ DSA problems**; **LeetCode Knight** with a peak rating of **1902**
+- 📚 Always learning: currently diving deeper into open source, clean code and how large codebases are built and maintained
+- 🤝 Happy to collaborate on interesting ML, CV or web projects
 
-| Project | What it is |
-| --- | --- |
-| [TrackBack](https://github.com/kavya-tantuvay/Track_Back) | AI lost & found platform: CLIP image+text embeddings, pgvector cosine similarity, JWT auth |
-| [Adaptive Lane Segmentation](https://github.com/kavya-tantuvay/adaptive-lane-segmentation-research) | Comparative study of segmentation architectures for lane detection |
-| [Financial Maze 3D](https://github.com/kavya-tantuvay/Financial_Maze) | Browser-based 3D finance game built with React Three Fiber |
-| [LeetCode Solutions](https://github.com/kavya-tantuvay/LeetCode-Solutions) | 800+ problems solved, organized by topic |
+---
 
-## 🏆 Highlights
+### 🛠️ Tech stack
 
-- **LeetCode Knight**: rating 1902, 800+ problems solved
-- **Goldman Sachs India Hackathon**: AIR 41
-- **Flipkart GRiD**: Semi-finalist
-- **GATE CSE 2026**: Qualified
-- **NTSE Scholar**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-## 📫 Reach me
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-Open to open-source collaboration, GSoC mentorship conversations, and internship opportunities. Feel free to open an issue or reach out via GitHub.
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured projects
+
+| Project | Highlights | Stack |
+| --- | --- | --- |
+| 🔍 **[TrackBack](https://github.com/kavya-tantuvay/Track_Back)** | AI lost & found platform that matches items using CLIP image + text embeddings and pgvector cosine similarity | TypeScript · Node · PostgreSQL · pgvector |
+| 🛣️ **[Adaptive Lane Segmentation](https://github.com/kavya-tantuvay/adaptive-lane-segmentation-research)** | Comparative study of segmentation architectures, extended with deformable convolution and probabilistic attention | TensorFlow · OpenCV |
+| 💰 **[Financial Maze 3D](https://github.com/kavya-tantuvay/Financial_Maze)** | Browser-based 3D game where financial choices shape your path | React Three Fiber |
+| 🧩 **[LeetCode Solutions](https://github.com/kavya-tantuvay/LeetCode-Solutions)** | 800+ problems organized by topic | C++ |
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Goldman Sachs India Hackathon**: AIR 41
+- 🚩 **Flipkart GRiD**: Semi-finalist
+- 🎓 **GATE CSE 2026**: Qualified
+- 🏅 **NTSE Scholar**
+- ⚔️ **LeetCode Knight**: rating 1902
+
+---
+
+### 🔥 Coding streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kavya-tantuvay&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+💬 *Curious, consistent and always up for learning something new. Let's build something cool together!*
+
+</div>
